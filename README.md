@@ -1,4 +1,4 @@
-# 🌦️ Weather Prediction with Machine Learning
+# Weather Prediction with Machine Learning
 
 Predicting next-day rainfall in Australia using machine learning techniques and the WeatherAUS dataset.
 
@@ -116,7 +116,7 @@ Possible future improvements include:
 
 # 🇪🇸 Español
 
-# 🌦️ Predicción de lluvia mediante Machine Learning
+# Predicción de lluvia mediante Machine Learning
 
 Predicción de lluvia para el día siguiente utilizando técnicas de aprendizaje automático y el conjunto de datos **WeatherAUS**.
 
